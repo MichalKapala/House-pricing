@@ -3,7 +3,7 @@
  
  Notebook, which is the most important file in this repositroy, is divided for several main parts:
  
- 1. Understanding problem.
+1. Understanding problem.
 	In this part i have analyzed the problem from human side. It's important to realize what matters in house prices.
 2. Data mining.	
 	Here i explore given data for better understanding. At first is visualized target distribution, then i look for correlated features.
